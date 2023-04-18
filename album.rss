@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>大自然</title>
+   	<link>.</link>
+        <generator>jAlbum 30.2</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>日暮</title>
+            <link>slides/%E6%97%A5%E6%9A%AE.jpg</link>
+            <pubDate>Wed, 19 Apr 2023 01:27:23 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/%E6%97%A5%E6%9A%AE.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/%E6%97%A5%E6%9A%AE.jpg" width="521" height="800"/>
+            <guid isPermaLink="false">slides/%E6%97%A5%E6%9A%AE.jpg</guid>
+        </item>
+        <item>
+            <title>時光機</title>
+            <link>slides/S__215212112.jpg</link>
+            <pubDate>Wed, 19 Apr 2023 01:27:23 +0800</pubDate>
+            <description>時光機
+常在卡通看到人物在大樹下埋時光膠囊
+</description>
+            <media:description type="html">時光機
+常在卡通看到人物在大樹下埋時光膠囊
+</media:description>
+            <media:thumbnail url="thumbs/S__215212112.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/S__215212112.jpg" width="547" height="800"/>
+            <guid isPermaLink="false">slides/S__215212112.jpg</guid>
+        </item>
+        <item>
+            <title>作伴</title>
+            <link>slides/%E4%BD%9C%E4%BC%B4.jpg</link>
+            <pubDate>Wed, 19 Apr 2023 01:27:23 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/%E4%BD%9C%E4%BC%B4.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/%E4%BD%9C%E4%BC%B4.jpg" width="454" height="800"/>
+            <guid isPermaLink="false">slides/%E4%BD%9C%E4%BC%B4.jpg</guid>
+        </item>
+        <item>
+            <title>足跡</title>
+            <link>slides/%E8%B6%B3%E8%B7%A1.jpg</link>
+            <pubDate>Wed, 19 Apr 2023 01:27:23 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/%E8%B6%B3%E8%B7%A1.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/%E8%B6%B3%E8%B7%A1.jpg" width="482" height="800"/>
+            <guid isPermaLink="false">slides/%E8%B6%B3%E8%B7%A1.jpg</guid>
+        </item>
+        <item>
+            <title>灑落</title>
+            <link>slides/S__215212114.jpg</link>
+            <pubDate>Wed, 19 Apr 2023 01:27:23 +0800</pubDate>
+            <description>灑落
+陽光透過落葉灑落在步道上</description>
+            <media:description type="html">灑落
+陽光透過落葉灑落在步道上</media:description>
+            <media:thumbnail url="thumbs/S__215212114.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/S__215212114.jpg" width="600" height="800"/>
+            <guid isPermaLink="false">slides/S__215212114.jpg</guid>
+        </item>
+        <item>
+            <title>彼岸</title>
+            <link>slides/%E5%BD%BC%E5%B2%B8.jpg</link>
+            <pubDate>Wed, 19 Apr 2023 01:27:23 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/%E5%BD%BC%E5%B2%B8.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/%E5%BD%BC%E5%B2%B8.jpg" width="463" height="800"/>
+            <guid isPermaLink="false">slides/%E5%BD%BC%E5%B2%B8.jpg</guid>
+        </item>
+        <item>
+            <title>秋楓</title>
+            <link>slides/%E7%A7%8B%E6%A5%93.jpg</link>
+            <pubDate>Wed, 19 Apr 2023 01:27:23 +0800</pubDate>
+            <description>秋楓
+在山腰間的秋天紅葉</description>
+            <media:description type="html">秋楓
+在山腰間的秋天紅葉</media:description>
+            <media:thumbnail url="thumbs/%E7%A7%8B%E6%A5%93.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/%E7%A7%8B%E6%A5%93.jpg" width="455" height="800"/>
+            <guid isPermaLink="false">slides/%E7%A7%8B%E6%A5%93.jpg</guid>
+        </item>
+        <item>
+            <title>倒映</title>
+            <link>slides/%E5%80%92%E6%98%A0.jpg</link>
+            <pubDate>Wed, 19 Apr 2023 01:27:23 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/%E5%80%92%E6%98%A0.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/%E5%80%92%E6%98%A0.jpg" width="576" height="800"/>
+            <guid isPermaLink="false">slides/%E5%80%92%E6%98%A0.jpg</guid>
+        </item>
+        <item>
+            <title>啟程</title>
+            <link>slides/%E5%95%9F%E7%A8%8B.jpg</link>
+            <pubDate>Wed, 19 Apr 2023 01:27:23 +0800</pubDate>
+            <description>啟程
+飛機上升，象徵夢想啟程</description>
+            <media:description type="html">啟程
+飛機上升，象徵夢想啟程</media:description>
+            <media:thumbnail url="thumbs/%E5%95%9F%E7%A8%8B.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/%E5%95%9F%E7%A8%8B.jpg" width="600" height="800"/>
+            <guid isPermaLink="false">slides/%E5%95%9F%E7%A8%8B.jpg</guid>
+        </item>
+        <item>
+            <title>海象</title>
+            <link>slides/%E6%B5%B7%E8%B1%A1.jpg</link>
+            <pubDate>Wed, 19 Apr 2023 01:27:23 +0800</pubDate>
+            <description>海象 
+石頭受到海浪侵蝕 逐漸形成大象的樣貌</description>
+            <media:description type="html">海象 
+石頭受到海浪侵蝕 逐漸形成大象的樣貌</media:description>
+            <media:thumbnail url="thumbs/%E6%B5%B7%E8%B1%A1.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/%E6%B5%B7%E8%B1%A1.jpg" width="1000" height="750"/>
+            <guid isPermaLink="false">slides/%E6%B5%B7%E8%B1%A1.jpg</guid>
+        </item>
+        <item>
+            <title>落日</title>
+            <link>slides/%E8%90%BD%E6%97%A5.jpg</link>
+            <pubDate>Wed, 19 Apr 2023 01:27:23 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/%E8%90%BD%E6%97%A5.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/%E8%90%BD%E6%97%A5.jpg" width="453" height="800"/>
+            <guid isPermaLink="false">slides/%E8%90%BD%E6%97%A5.jpg</guid>
+        </item>
+        <item>
+            <title>歲月</title>
+            <link>slides/%E6%AD%B2%E6%9C%88.jpg</link>
+            <pubDate>Wed, 19 Apr 2023 01:27:23 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/%E6%AD%B2%E6%9C%88.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/%E6%AD%B2%E6%9C%88.jpg" width="452" height="800"/>
+            <guid isPermaLink="false">slides/%E6%AD%B2%E6%9C%88.jpg</guid>
+        </item>
+        <item>
+            <title>寧靜</title>
+            <link>slides/%E5%AF%A7%E9%9D%9C.jpg</link>
+            <pubDate>Wed, 19 Apr 2023 01:27:23 +0800</pubDate>
+            <description>寧靜
+道路盡頭那端是寧靜的海</description>
+            <media:description type="html">寧靜
+道路盡頭那端是寧靜的海</media:description>
+            <media:thumbnail url="thumbs/%E5%AF%A7%E9%9D%9C.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/%E5%AF%A7%E9%9D%9C.jpg" width="504" height="800"/>
+            <guid isPermaLink="false">slides/%E5%AF%A7%E9%9D%9C.jpg</guid>
+        </item>
+        <item>
+            <title>漣漪</title>
+            <link>slides/%E6%BC%A3%E6%BC%AA.jpg</link>
+            <pubDate>Wed, 19 Apr 2023 01:27:23 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/%E6%BC%A3%E6%BC%AA.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/%E6%BC%A3%E6%BC%AA.jpg" width="562" height="800"/>
+            <guid isPermaLink="false">slides/%E6%BC%A3%E6%BC%AA.jpg</guid>
+        </item>
+        <item>
+            <title>遠洋</title>
+            <link>slides/%E9%81%A0%E6%B4%8B.jpg</link>
+            <pubDate>Wed, 19 Apr 2023 01:27:23 +0800</pubDate>
+            <description>遠洋
+船隻前往遠括的海洋
+</description>
+            <media:description type="html">遠洋
+船隻前往遠括的海洋
+</media:description>
+            <media:thumbnail url="thumbs/%E9%81%A0%E6%B4%8B.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/%E9%81%A0%E6%B4%8B.jpg" width="877" height="800"/>
+            <guid isPermaLink="false">slides/%E9%81%A0%E6%B4%8B.jpg</guid>
+        </item>
+        <item>
+            <title>餘暉</title>
+            <link>slides/%E9%A4%98%E6%9A%89.jpg</link>
+            <pubDate>Wed, 19 Apr 2023 01:27:23 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/%E9%A4%98%E6%9A%89.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/%E9%A4%98%E6%9A%89.jpg" width="453" height="800"/>
+            <guid isPermaLink="false">slides/%E9%A4%98%E6%9A%89.jpg</guid>
+        </item>
+        <item>
+            <title>燈火</title>
+            <link>slides/%E7%87%88%E7%81%AB.jpg</link>
+            <pubDate>Wed, 19 Apr 2023 01:27:23 +0800</pubDate>
+            <description>燈火
+</description>
+            <media:description type="html">燈火
+</media:description>
+            <media:thumbnail url="thumbs/%E7%87%88%E7%81%AB.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/%E7%87%88%E7%81%AB.jpg" width="600" height="800"/>
+            <guid isPermaLink="false">slides/%E7%87%88%E7%81%AB.jpg</guid>
+        </item>
+        <item>
+            <title>歸途</title>
+            <link>slides/%E6%AD%B8%E9%80%94.jpg</link>
+            <pubDate>Wed, 19 Apr 2023 01:27:23 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/%E6%AD%B8%E9%80%94.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/%E6%AD%B8%E9%80%94.jpg" width="459" height="800"/>
+            <guid isPermaLink="false">slides/%E6%AD%B8%E9%80%94.jpg</guid>
+        </item>
+        <item>
+            <title>邊際</title>
+            <link>slides/%E9%82%8A%E9%9A%9B.jpg</link>
+            <pubDate>Wed, 19 Apr 2023 01:27:23 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/%E9%82%8A%E9%9A%9B.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/%E9%82%8A%E9%9A%9B.jpg" width="521" height="800"/>
+            <guid isPermaLink="false">slides/%E9%82%8A%E9%9A%9B.jpg</guid>
+        </item>
+        <item>
+            <title>藍調</title>
+            <link>slides/%E8%97%8D%E8%AA%BF.jpg</link>
+            <pubDate>Wed, 19 Apr 2023 01:27:23 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/%E8%97%8D%E8%AA%BF.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/%E8%97%8D%E8%AA%BF.jpg" width="600" height="800"/>
+            <guid isPermaLink="false">slides/%E8%97%8D%E8%AA%BF.jpg</guid>
+        </item>
+    </channel>
+</rss>
